@@ -4,6 +4,8 @@ A hands-on enterprise network simulation based on CCNP ENCOR design principles. 
 
 ## Architecture
 
+![Enterprise campus network topology](enterprise-network.webp)
+
 ```text
 ISP
  |
